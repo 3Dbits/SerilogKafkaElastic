@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerilogProducer-v2", "SerilogProducer-v2\SerilogProducer-v2.csproj", "{28387543-65EC-4B4B-92F4-C0F37A428F0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumerElastic", "..\ConsumerElastic\ConsumerElastic\ConsumerElastic.csproj", "{C625CC2A-10B5-4D2C-9C43-A8F16998963A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28387543-65EC-4B4B-92F4-C0F37A428F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28387543-65EC-4B4B-92F4-C0F37A428F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28387543-65EC-4B4B-92F4-C0F37A428F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28387543-65EC-4B4B-92F4-C0F37A428F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C625CC2A-10B5-4D2C-9C43-A8F16998963A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C625CC2A-10B5-4D2C-9C43-A8F16998963A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C625CC2A-10B5-4D2C-9C43-A8F16998963A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C625CC2A-10B5-4D2C-9C43-A8F16998963A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD554C5-5F32-404B-8032-1BFB3674280D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+2024-01-10 08:11:44.202 +01:00 [INF] Test 2 olaa kkaka
+2024-01-10 08:11:44.343 +01:00 [INF] HTTP GET /weatherforecast responded 200 in 217.1189 ms
+2024-01-10 08:22:18.408 +01:00 [INF] Test 2 olaa kkaka
+2024-01-10 08:22:18.648 +01:00 [INF] HTTP GET /weatherforecast responded 200 in 348.2347 ms
+2024-01-10 08:23:34.133 +01:00 [INF] Test 2 olaa kkaka
+2024-01-10 08:23:34.137 +01:00 [INF] HTTP GET /weatherforecast responded 200 in 4.2885 ms
